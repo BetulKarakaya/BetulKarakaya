@@ -51,4 +51,4 @@ Here’s my (ever-growing) toolkit:
 ---
 
 ## 📈 GitHub Stats  
-[![Betül's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betuldev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Betül's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BetulKarakaya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
